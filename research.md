@@ -36,7 +36,7 @@ Papers selected as Book Chapters
 <h2>Preprints</h2>
 <ul>
 	<li>
-		<b>Determining Optimal Number of kClusters based on Predefined Level-of-Similarity.</b><br>
+		<b>Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity.</b><br>
 		<i>Rabindra Lamsal and Shubham Katiyar</i><br>
 		arXiv preprint arXiv:1810.01878, 2018<br>
 	</li><br>
@@ -52,10 +52,10 @@ Papers selected as Book Chapters
 		Projects completed as a part of M.Tech Dissertation<br>
 	</li><br>
 	
-<li> <b>Word Embedding (Word2Vec Implementation) for Nepali Language</b><br>
+<li> <b>Word Embeddings (Word2Vec Implementation) for Nepali Language</b><br>
 Word2Vec implementation of a Nepali language corpora having 100 million running words. The
-text corpora was designed by scrapping publicly available news content of various online Nepali
-news portals. The model has Word Embedding for 0.5 million Nepali words.</li><br>
+text corpora was designed by scrapping publicly available news content of various Nepali online
+news portals. The model has Word Embeddings for 0.5 million Nepali words.</li><br>
 
 
 <li> <b>Indian Premier League (IPL) Matches Prediction Model</b><br>
