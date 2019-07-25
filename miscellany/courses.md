@@ -17,9 +17,5 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> CS775: Research Reading and Seminar (Graded A PLUS)<br>
 
 <h2>MOOC</h2>
-<a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
-<b>&nbsp;&middot;&nbsp;</b> <a href="http://cs224d.stanford.edu/">CS224d</a>: Deep Learning for Natural Language Processing
-
-<div align= "right">
-	*<i>pursuing currently</i><br><sup>&dagger;</sup><i>accompanied by a separate lab course</i>
-</div>
+<b>&nbsp;&middot;&nbsp;</b> Machine Learning, offered by Stanford at Coursera.org (11 weeks)<br>
+<b>&nbsp;&middot;&nbsp;</b> Neural Networks and Deep Learning, offered by deeplearning.ai (4 weeks)<br>
