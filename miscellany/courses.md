@@ -8,14 +8,13 @@ permalink: /miscellany/courses/
 
 <h3>School of Computer and Systems Sciences</h3>
 
-<b>&nbsp;&middot;&nbsp;</b>CS708: Arificial Intelligence<br>
-<b>&nbsp;&middot;&nbsp;</b> CS715: Data Mining and Knowledge Discovery<br>
-<b>&nbsp;&middot;&nbsp;</b> CS773: Design and Analysis of Algorithms<br>
-<b>&nbsp;&middot;&nbsp;</b> CS771 Grid and Cloud Computing<br>
-<b>&nbsp;&middot;&nbsp;</b> CS770 Wireless Sensor Networks<br>
-<b>&nbsp;&middot;&nbsp;</b> CS703: Data Communication and Coumputer Network<br>
-<b>&nbsp;&middot;&nbsp;</b> CS765: Research Methodology<br>
-<b>&nbsp;&middot;&nbsp;</b> CS775: Research Reading and Seminar<br>
+<b>&nbsp;&middot;&nbsp;</b> CS708: Arificial Intelligence (Graded A PLUS)<br>
+<b>&nbsp;&middot;&nbsp;</b> CS715: Data Mining and Knowledge Discovery (Graded A PLUS)<br>
+<b>&nbsp;&middot;&nbsp;</b> CS773: Design and Analysis of Algorithms (Graded A ONLY)<br>
+<b>&nbsp;&middot;&nbsp;</b> CS771: Grid and Cloud Computing (Graded A PLUS)<br>
+<b>&nbsp;&middot;&nbsp;</b> CS770: Wireless Sensor Networks (Graded A PLUS)<br>
+<b>&nbsp;&middot;&nbsp;</b> CS765: Research Methodology (Graded A PLUS)<br>
+<b>&nbsp;&middot;&nbsp;</b> CS775: Research Reading and Seminar (Graded A PLUS)<br>
 
 <h2>MOOC</h2>
 <a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
