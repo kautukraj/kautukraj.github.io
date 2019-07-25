@@ -4,9 +4,7 @@ title: Key Courses Undertaken
 permalink: /miscellany/courses/
 ---
 
-<h2>At Jawaharlal Nehru University</h2>
-
-<h3>School of Computer and Systems Sciences</h3>
+<h3>School of Computer and Systems Sciences, Jawaharlal Nehru University</h3>
 
 <b>&nbsp;&middot;&nbsp;</b> CS708: Arificial Intelligence (Graded A PLUS)<br>
 <b>&nbsp;&middot;&nbsp;</b> CS715: Data Mining and Knowledge Discovery (Graded A PLUS)<br>
