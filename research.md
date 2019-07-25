@@ -55,11 +55,17 @@ Papers selected as Book Chapters
 	<li>
 		<b>Twitter Based Disaster Response System</b><br>
 <b>Disaster Response System targeted for Coastal disasters</b><br>
-		<i>Projects completed as a part of M.Tech Dissertation</i><br>
+		Projects completed as a part of M.Tech Dissertation<br>
 	</li><br>
 	
 <li> <b>Word Embedding (Word2Vec Implementation) for Nepali Language</b><br>
-<i>Word2Vec implementation of a Nepali language corpora having 100 million running words. The
+Word2Vec implementation of a Nepali language corpora having 100 million running words. The
 text corpora was designed by scrapping publicly available news content of various online Nepali
-news portals. The model has Word Embedding for 0.5 million Nepali words.</i><br>
-</ul>
+news portals. The model has Word Embedding for 0.5 million Nepali words.</li><br>
+
+
+<li> <b>Indian Premier League (IPL) Matches Prediction Model</b><br>
+A machine learning model capable of predicting the outcome of an IPL match, 15 minutes before
+the gameplay, immediately after the toss results. The prediction model was able to correctly predict
+43 out of 60 matches of 2018 season. Project carried out as a part of the course <em>Artificial Intelligence</em>.
+</li></ul>
