@@ -4,6 +4,8 @@ permalink: /research/
 title: Research
 ---
 
+M.Tech Research Areas: Machine Learning, Deep Learning, Sequence Modelling, GRU, LSTM, Word Embeddings
+
 Although I worked extensively with the variants of RNN in my M.Tech research, I still have an urge to explore the possibilities of using deep learning on digital images and videos as a part of computer vision.
 
 <h2>Publications</h2>
@@ -42,22 +44,4 @@ Papers selected as Book Chapters
 	
 <li> <b>Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning</b><br>
 <i>Rabindra Lamsal and Ayesha Choudhary</i><br> . arXiv preprint arXiv:1809.09813, 2018<br> </li><br>
-</ul>
-
-
-
-
-
-
-
-<h2>Research Implementations</h2>
-<ul>
-	<li>
-		<b>Title #1</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Title #2</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
 </ul>
