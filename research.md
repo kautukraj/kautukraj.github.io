@@ -16,22 +16,28 @@ Papers selected as Book Chapters
 		Global Symposium on Artificial Intelligence in Governance and Disaster Management, New Delhi, 2019<br>
 	</li><br>
 	
-<li> <b>Artificial Intelligence based Disaster Response Systems.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> Fourth World Congress on Disaster Management. Indian Institute of Technology (IIT) Bombay, 2019<br> </li><br> <li> <b>Artificial Intelligence Based EarlyWarning System for Coastal Disasters.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br> </li><br> </ul>
+<li> <b>Artificial Intelligence based Disaster Response Systems.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> Fourth World Congress on Disaster Management. Indian Institute of Technology (IIT) Bombay, 2019<br> </li><br>
 
-<h2>Research Projects</h2>
+<li> <b>Artificial Intelligence Based Early Warning System for Coastal Disasters.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br> </li><br> </ul>
+
+<h2>Journal articles</h2>
 <ul>
 	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
-		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>Improving Twitter based Disaster Response using Deep Learning (to be communicated)</b><br>
+		<i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>
 	</li><br>
+	
 	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
-		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>Twitter based Disaster Response using Machine Learning (to be communicated)</b><br>
+		<i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>
 	</li><br>
+	
+	
+	<li>
+		<b> Classifying Emergency Tweets for Disaster Response (communicated)</b><br>
+		<i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>
+	</li><br>
+	
 </ul>
 
 <h2>Research Implementations</h2>
