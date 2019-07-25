@@ -4,7 +4,7 @@ general_email: rabindralamsal@outlook.com
 academic_email: 
 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I'd say I'm a deep learning enthusiast.
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
