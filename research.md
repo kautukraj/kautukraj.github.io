@@ -6,7 +6,7 @@ title: Research
 
 M.Tech Research Areas: Machine Learning, Deep Learning, Sequence Modelling, GRU, LSTM, Word Embeddings
 
-Although I worked extensively with the variants of RNN in my M.Tech research, I have an urge to explore the possibilities of using deep learning on digital images and videos as a part of computer vision.
+Although I worked extensively with the variants of RNN in my M.Tech research, I have an urge to explore the further possibilities of using deep learning on digital images and videos as a part of computer vision.
 
 <h2>Publications</h2>
 Papers selected as Book Chapters
