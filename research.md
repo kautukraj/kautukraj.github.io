@@ -52,10 +52,11 @@ Papers selected as Book Chapters
 		Projects completed as a part of M.Tech Dissertation<br>
 	</li><br>
 	
-<li> <b>Word Embeddings (Word2Vec Implementation) for Nepali Language</b><br>
+<li> <b>Word Embeddings (Word2Vec Implementation) for Nepali Language [<a href="https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language">GitHub Repo</a>]</b><br>
 Word2Vec implementation of a Nepali language corpora having 100 million running words. The
 text corpora was designed by scrapping publicly available news content of various Nepali online
 news portals. The model has Word Embeddings for 0.5 million Nepali words.</li><br>
+
 
 
 <li> <b>Indian Premier League (IPL) Matches Prediction Model</b><br>
