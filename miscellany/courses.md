@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Key Courses Undertaken
+title: Some Key Courses Undertaken
 permalink: /miscellany/courses/
 ---
 
