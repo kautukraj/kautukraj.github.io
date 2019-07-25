@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: Projects
+title: Non-Research Projects
 ---
 
 Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/academic-portfolio/research">here</a>.
