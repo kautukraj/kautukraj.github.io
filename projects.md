@@ -4,7 +4,7 @@ permalink: /projects/
 title: Non-Research Projects
 ---
 
-Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/academic-portfolio/research">here</a>.
+Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>.
 
 <h3>Projects completed during Master's</h3>
 
