@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
-url: "rabindralamsal.github.io" # the base hostname & protocol for your site
+url: "rlamsal.com.np" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 github_username: 
