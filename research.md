@@ -20,7 +20,7 @@ Papers selected as Book Chapters
 	
 <li> <b>Artificial Intelligence based Disaster Response Systems.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> Fourth World Congress on Disaster Management. Indian Institute of Technology (IIT) Bombay, 2019<br> </li><br>
 
-<li> <b>Artificial Intelligence Based Early Warning System for Coastal Disasters.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br> </li><br> </ul>
+<li> <b>Artificial Intelligence Based Early Warning System for Coastal Disasters.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br> </li></ul>
 
 <h2>Journal articles</h2>
 <ul>
@@ -31,10 +31,7 @@ Papers selected as Book Chapters
 	</li><br>
 
 
-<li> <b>Twitter based Disaster Response using Machine Learning.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>(to be communicated) </li><br> <li> <b> Classifying Emergency Tweets for Disaster Response</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> (communicated) </li><br>
-
-
-</ul>
+<li> <b>Twitter based Disaster Response using Machine Learning.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>(to be communicated) </li><br> <li> <b> Classifying Emergency Tweets for Disaster Response</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> (communicated) </li></ul>
 
 <h2>Preprints</h2>
 <ul>
@@ -45,10 +42,7 @@ Papers selected as Book Chapters
 	</li><br>
 	
 <li> <b>Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning</b><br>
-<i>Rabindra Lamsal and Ayesha Choudhary</i><br> . arXiv preprint arXiv:1809.09813, 2018<br> </li><br>
-</ul>
-
-
+<i>Rabindra Lamsal and Ayesha Choudhary</i><br> . arXiv preprint arXiv:1809.09813, 2018<br> </li></ul>
 
 <h2>Projects</h2>
 <ul>
