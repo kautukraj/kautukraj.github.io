@@ -30,8 +30,9 @@ part of the course <em>Database Management Systems</em>.
 </li>
 <br>
 
+</ul>
 <h3>Projects completed during Bachelor's</h3>
-
+<ul>
 <li>
 <b>
 Noise Buzzer
