@@ -23,11 +23,12 @@ Papers selected as Book Chapters
 <h2>Journal articles</h2>
 <ul>
 	<li>
-		<b>Improving Twitter based Disaster Response using Deep Learning (to be communicated)</b><br>
+		<b>Improving Twitter based Disaster Response using Deep Learning.</b><br>
 		<i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>
+		(to be communicated)
 	</li><br>
 	
-	<li> <b>Twitter based Disaster Response using Machine Learning (to be communicated)</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> </li><br> <li> <b> Classifying Emergency Tweets for Disaster Response (communicated)</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> </li><br>
+	<li> <b>Twitter based Disaster Response using Machine Learning.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>(to be communicated) </li><br> <li> <b> Classifying Emergency Tweets for Disaster Response</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> (communicated) </li><br>
 	
 </ul>
 
