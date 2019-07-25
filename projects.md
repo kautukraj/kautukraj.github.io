@@ -28,7 +28,6 @@ Inventory Management System
 A complete Inventory Management System, written in PHP and MySQL. Project carried out as a
 part of the course <em>Database Management Systems</em>.
 </li>
-<br>
 
 </ul>
 <h3>Projects completed during Bachelor's</h3>
@@ -93,6 +92,4 @@ Car Racing Game
 A C language based 2D car racing game, selected for showcasing at CAN Softech 2013, organized
 by Computer Association of Nepal. Project carried out as a part of <em>Engineering Project.</em>.
 </li>
-<br>
-
 </ul>
