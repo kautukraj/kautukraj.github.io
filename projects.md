@@ -6,10 +6,22 @@ title: Non-Research Projects
 
 Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>.
 
-<h2>Projects completed during Master's</h2>
+<h2>Projects carried out during Master's</h2>
 
 
 <ul>	
+  
+
+<li>
+<b>
+Natural Language Processing (NLP) tools for Nepali Language
+</b>
+<br>
+Text cleaner, text stemmer, sentence tokenizer and word tokenizer. Please drop an email for requesting the scripts.
+</li>
+<br>
+  
+  
 <li>
 <b>
 Fabrication of Microstrip Patch Antenna
@@ -30,7 +42,7 @@ part of the course <em>Database Management Systems</em>.
 </li>
 
 </ul>
-<h2>Projects completed during Bachelor's</h2>
+<h2>Projects carried out during Bachelor's</h2>
 <ul>
 <li>
 <b>
