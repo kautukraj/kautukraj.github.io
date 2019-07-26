@@ -61,8 +61,7 @@ Inventory Management System for DoCSE
 </b>
 <br>
 A Java based inventory management system, designed as per the requirements of the Department
-of Computer Science and Engineering (DoCSE), Kathmandu University. Project carried out as a
-part of <em>Engineering Project</em>.
+of Computer Science and Engineering (DoCSE), Kathmandu University.
 </li>
 <br>
 
@@ -72,7 +71,6 @@ Duckworth-Lewis Calculator
 </b>
 <br>
 An android application to calculate revised cricket scores after a game is interrupted due to rain.
-Project carried out as a part of <em>Engineering Project</em>.
 </li>
 <br>
 
@@ -82,7 +80,6 @@ Photochautari
 </b>
 <br>
 A web based social networking platform for amateur photographers, written in PHP and MySQL.
-Project carried out as a part of <em>Engineering Project</em>.
 </li>
 <br>
 
@@ -91,8 +88,7 @@ Project carried out as a part of <em>Engineering Project</em>.
 GetMeTickets
 </b>
 <br>
-A web based bus ticket reservation system, written in PHP and MySQL. Project carried out as a
-part of <em>Engineering Project</em>.
+A web based bus ticket reservation system, written in PHP and MySQL.
 </li>
 <br>
 
@@ -102,6 +98,6 @@ Car Racing Game
 </b>
 <br>
 A C language based 2D car racing game, selected for showcasing at CAN Softech 2013, organized
-by Computer Association of Nepal. Project carried out as a part of <em>Engineering Project.</em>.
+by Computer Association of Nepal.
 </li>
 </ul>
