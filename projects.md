@@ -6,7 +6,7 @@ title: Non-Research Projects
 
 Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>.
 
-<h3>Projects completed during Master's</h3>
+<h2>Projects completed during Master's</h2>
 
 
 <ul>	
@@ -30,7 +30,7 @@ part of the course <em>Database Management Systems</em>.
 </li>
 
 </ul>
-<h3>Projects completed during Bachelor's</h3>
+<h2>Projects completed during Bachelor's</h2>
 <ul>
 <li>
 <b>
