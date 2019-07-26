@@ -37,7 +37,7 @@ Papers selected as Book Chapters
 <h2>Preprints</h2>
 <ul>
 	<li>
-		<b>Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity.</b><br>
+		<b>Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity</b><br>
 		Rabindra Lamsal and Shubham Katiyar<br>
 		arXiv preprint arXiv:1810.01878, 2018<br>
 	</li><br>
