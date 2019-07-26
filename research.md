@@ -22,7 +22,7 @@ Papers selected as Book Chapters
 
 <li> <b>Artificial Intelligence Based Early Warning System for Coastal Disasters</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br> </li></ul>
 
-<h2>Journal articles</h2>
+Journal articles
 <ul>
 	<li>
 		<b>Improving Twitter based Disaster Response using Deep Learning</b> (to be communicated)<br>
@@ -34,7 +34,7 @@ Papers selected as Book Chapters
 
 <li> <b> Classifying Emergency Tweets for Disaster Response</b> (communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar</li></ul>
 
-<h2>Preprints</h2>
+Preprints
 <ul>
 	<li>
 		<b>Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity</b><br>
