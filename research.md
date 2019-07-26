@@ -6,7 +6,7 @@ title: Research
 
 M.Tech Research Areas: Machine Learning, Deep Learning, Sequence Modelling, GRU, LSTM, Word Embeddings
 
-Although I worked extensively with sequence modelling during my master's, I have an urge to explore the further possibilities of using deep learning on digital images and videos as a part of computer vision.
+Although I worked extensively on sequence modelling during my master's, I have an urge to explore the further possibilities of using deep learning on digital images and videos as a part of computer vision.
 
 <h2>Publications</h2>
 Papers selected as Book Chapters
@@ -25,13 +25,14 @@ Papers selected as Book Chapters
 <h2>Journal articles</h2>
 <ul>
 	<li>
-		<b>Improving Twitter based Disaster Response using Deep Learning.</b><br>
+		<b>Improving Twitter based Disaster Response using Deep Learning.</b>(to be communicated)<br>
 		<i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>
-		(to be communicated)
 	</li><br>
 
 
-<li> <b>Twitter based Disaster Response using Machine Learning.</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br>(to be communicated) </li><br> <li> <b> Classifying Emergency Tweets for Disaster Response</b><br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i><br> (communicated) </li></ul>
+<li> <b>Twitter based Disaster Response using Machine Learning.</b>(to be communicated)<br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i></li><br>
+
+<li> <b> Classifying Emergency Tweets for Disaster Response</b>(communicated)<br> <i>Rabindra Lamsal and T.V. Vijay Kumar</i></li></ul>
 
 <h2>Preprints</h2>
 <ul>
@@ -42,7 +43,7 @@ Papers selected as Book Chapters
 	</li><br>
 	
 <li> <b>Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning</b><br>
-<i>Rabindra Lamsal and Ayesha Choudhary</i><br> . arXiv preprint arXiv:1809.09813, 2018<br> </li></ul>
+<i>Rabindra Lamsal and Ayesha Choudhary</i><br>arXiv preprint arXiv:1809.09813, 2018<br> </li></ul>
 
 <h2>Projects</h2>
 <ul>
