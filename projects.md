@@ -34,7 +34,7 @@ and fabricated in Lab. Project carried out as a part of the course <em>Wireless 
 
 <li>
 <b>
-Inventory Management System
+Inventory Management System [<a href="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System">GitHub Repo</a>]
 </b>
 <br>
 A complete Inventory Management System, written in PHP and MySQL. Project carried out as a
