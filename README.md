@@ -1,1 +1,1 @@
-My academic protfolio!
+My academic portfolio!
