@@ -30,8 +30,8 @@ Journal articles
 	</li><br>
 
 
-<li> <b>Twitter based Disaster Response using Machine Learning</b> (to be communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar</li><br>
-
+<li>
+<b>Twitter based Disaster Response using Machine Learning</b> (to be communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar</li><br>
 <li> <b> Classifying Emergency Tweets for Disaster Response</b> (communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar</li></ul>
 
 Preprints
@@ -52,9 +52,8 @@ Rabindra Lamsal and Ayesha Choudhary<br>arXiv preprint arXiv:1809.09813, 2018<br
 		<b>Sentiment.live</b><br>
 		Deployed an LSTM model for live twitter sentiment. The trained LSTM deep network is a modified version of the text classifier documented in my master's thesis.<br>
 	</li><br>	
-	
-	<li>
-		<b>Twitter Based Disaster Response System</b><br>
+
+<li> <b>Twitter Based Disaster Response System</b><br>
 <b>Disaster Response System targeted for Coastal disasters</b><br>
 		Projects completed as a part of M.Tech Dissertation<br>
 	</li><br>
