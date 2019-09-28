@@ -107,8 +107,7 @@
     margin-bottom: $spacing-unit;
 }
 
-h1 /* .post-title */ {
-/*    font-size: 42px; */
+h1 .post-title {
     margin-top: 10px;
     letter-spacing: -1px;
     line-height: 1;
@@ -126,8 +125,8 @@ h1 /* .post-title */ {
     margin-bottom: $spacing-unit;
 
     h2 {
-		font-family: 'Titillium Web', sans-serif;
-	    font-weight: 500;
+		font-family: inherit;
+	    font-weight: 600;
 /*        font-size: 32px; */
 
         @include media-query($on-laptop) {
