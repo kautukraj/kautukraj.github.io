@@ -50,7 +50,7 @@ Rabindra Lamsal and Ayesha Choudhary<br>arXiv preprint arXiv:1809.09813, 2018<br
 	
 <li>
 		<b>Sentiment.live</b><br>
-		Deployed an LSTM model for live twitter sentiment. The trained LSTM deep network is a modified version of the text classifier documented in my master's thesis. <a href="https://sentiment.live">[link to the deployed webapp]</a><br>
+		Deployed an LSTM model for live twitter sentiment. The trained LSTM deep network is a modified version of the text classifier documented in my master's thesis. [<a href="https://sentiment.live">link to the deployed webapp</a>]<br>
 	</li><br>	
 
 <li> <b>Twitter Based Disaster Response System</b><br>
@@ -58,7 +58,7 @@ Rabindra Lamsal and Ayesha Choudhary<br>arXiv preprint arXiv:1809.09813, 2018<br
 		Projects completed as a part of M.Tech Dissertation<br>
 	</li><br>
 	
-<li> <b>Word Embeddings (Word2Vec Implementation) for Nepali Language [<a href="https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language">GitHub Repo</a>]</b><br>
+<li> <b>Word Embeddings (Word2Vec Implementation) for Nepali Language [<a href="https://ieee-dataport.org/open-access/300-dimensional-word-embeddings-nepali-language">IEEE Dataport</a>]</b><br>
 Word2Vec implementation of a Nepali language corpora having 100 million running words. The
 text corpora was designed by scrapping publicly available news content of various Nepali online
 news portals. The model has Word Embeddings for 0.5 million Nepali words.</li><br>
