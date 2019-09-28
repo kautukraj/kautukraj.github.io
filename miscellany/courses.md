@@ -4,7 +4,7 @@ title: Some Key Courses Undertaken
 permalink: /miscellany/courses/
 ---
 
-<h2>School of Computer and Systems Sciences, Jawaharlal Nehru University (During my M.Tech)</h2>
+<h2>School of Computer and Systems Sciences, JNU, New Delhi</h2>
 
 <b>&nbsp;&middot;&nbsp;</b> CS708: Arificial Intelligence (Graded A PLUS)<br>
 <b>&nbsp;&middot;&nbsp;</b> CS715: Data Mining and Knowledge Discovery (Graded A PLUS)<br>
