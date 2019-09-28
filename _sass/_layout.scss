@@ -98,23 +98,8 @@
     font-size: 24px;
 }
 
-
-
-/**
- * Posts
- */
 .post-header {
     margin-bottom: $spacing-unit;
-}
-
-.post-title {
-    margin-top: 10px;
-    letter-spacing: -1px;
-    line-height: 1;
-    font-size: 1.5em;
-    font-family: inherit;
-    font-weight: 600;
-    color: #ce0000;
 }
 
     @include media-query($on-laptop) {
