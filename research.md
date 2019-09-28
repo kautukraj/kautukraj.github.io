@@ -50,7 +50,7 @@ Rabindra Lamsal and Ayesha Choudhary<br>arXiv preprint arXiv:1809.09813, 2018<br
 	
 <li>
 		<b>Sentiment.live</b><br>
-		Deployed an LSTM model for live twitter sentiment. The trained LSTM deep network is a modified version of the text classifier documented in my master's thesis.<br>
+		Deployed an LSTM model for live twitter sentiment. The trained LSTM deep network is a modified version of the text classifier documented in my master's thesis. <a href="https://sentiment.live">[link to the deployed webapp]</a><br>
 	</li><br>	
 
 <li> <b>Twitter Based Disaster Response System</b><br>
