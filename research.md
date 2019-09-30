@@ -34,13 +34,18 @@ Journal articles
 
 
 <div class="journal">
-Journal article 1: This paper was written keeping in view the social science researchers working on disaster research domain at the Special Centre for Disaster Research. With relatively less technicality, the paper focused on how effectively the raw twitter data can be accessed, pre-processed and represented in the Vector Space to enable traditional machine learning algorithms to train on. 
+<b>Classifying Emergency Tweets for Disaster Response</b><br>
+This paper was written keeping in view the social science researchers working on disaster research domain at the Special Centre for Disaster Research. With relatively less technicality, the paper focused on how effectively the raw twitter data can be accessed, pre-processed and represented in the Vector Space to enable traditional machine learning algorithms to train on. <br>
 	
-Journal article 2 and 3: These papers are the third and fourth chapter of my dissertation.
+<b>Twitter based Disaster Response using Machine Learning (J1)</b><br>
+<b>Improving Twitter based Disaster Response using Deep Learning (J2)</b><br>
 
-The counterpart of article 2: https://arxiv.org/pdf/1605.05894.pdf. The counterpart of article 3: https://arxiv.org/pdf/1608.03902.pdf.
+These papers are the third and fourth chapter of my dissertation.<br>
 
-In both of our works, we've made an attempt to design global classifiers for classifying disaster-specific tweets. However, the counterparts focus concisely in event-specific classification. We can't afford to wait for a disastrous event to happen for collecting a couple of hundreds of tweets, labelling them, and designing classifier for the event. Therefore, a global classifier seemed lacking which could classify disaster-specific tweets irrespective of the region and the language.
+The counterpart of article J1: https://arxiv.org/pdf/1605.05894.pdf.<br>
+The counterpart of article J2: https://arxiv.org/pdf/1608.03902.pdf.<br>
+
+In both of our works, we've made an attempt to design global classifiers for classifying disaster-specific tweets. However, the counterparts focus concisely in event-specific classification. We can't afford to wait for a disastrous event to happen for collecting a couple of hundreds of tweets, labelling them, and designing classifier for the event. Therefore, a global classifier seemed lacking which could classify disaster-specific tweets irrespective of the region and the language.<br>
 
 The performances of the classifiers in respective papers hold very close to their state-of-art counterparts in terms of classification accuracy.	
 </div>
