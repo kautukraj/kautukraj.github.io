@@ -46,7 +46,7 @@ These papers are the chapters of my dissertation.<br>
 The counterpart of article J1: <a href="https://arxiv.org/abs/1605.05894">https://arxiv.org/pdf/1605.05894.pdf</a><br>
 The counterpart of article J2: <a href="https://arxiv.org/pdf/1608.03902.pdf">https://arxiv.org/pdf/1608.03902.pdf</a><br>
 <br>
-In both of our works, we've made an attempt to design global classifiers for classifying disaster-specific tweets. However, the counterparts focus concisely in event-specific classification. We can't afford to wait for a disastrous event to happen for collecting a couple of hundreds of tweets, labelling them, and designing classifier for the event. Therefore, a global classifier seemed lacking which could classify disaster-specific tweets irrespective of the region and the language.<br>
+In both of our works, we've attempted to design global classifiers for classifying disaster-specific tweets. However, the counterparts focus concisely in event-specific classification. We can't afford to wait for a disastrous event to happen for collecting a couple of hundreds of tweets, labelling them, and designing classifier for the event. Therefore, a global classifier seemed lacking, which could classify disaster-specific tweets irrespective of the region and the language.<br>
 <br>
 The performances of the classifiers in respective papers hold very close to their state-of-art counterparts in terms of classification accuracy.	
 </div>
