@@ -34,8 +34,9 @@ Journal articles
 
 
 <div class="journal">
-<b>Classifying Emergency Tweets for Disaster Response</b><br>
-This paper was written keeping in view the social science researchers working on disaster research domain at the Special Centre for Disaster Research. With relatively less technicality, the paper focused on how effectively the raw twitter data can be accessed, pre-processed and represented in the Vector Space to enable traditional machine learning algorithms to train on. <br>
+<h4>Content inside the Journal articles</h4>	
+<b>Classifying Emergency Tweets for Disaster Response (J3)</b><br>
+This paper was written keeping in view the social science researchers working on disaster research domain at the Special Centre for Disaster Research. With relatively less technicality, the paper focused on how effectively the raw twitter data can be accessed, pre-processed and represented in the Vector Space to enable traditional machine learning algorithms to train on. <br><br>
 	
 <b>Twitter based Disaster Response using Machine Learning (J1)</b><br>
 <b>Improving Twitter based Disaster Response using Deep Learning (J2)</b><br>
