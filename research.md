@@ -57,11 +57,12 @@ Preprints
 	<li>
 		<b>Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity</b><br>
 		Rabindra Lamsal and Shubham Katiyar<br>
-		arXiv preprint arXiv:1810.01878, 2018<br>
+		<a href="https://arxiv.org/abs/1810.01878">arXiv preprint arXiv:1810.01878</a>, 2018<br>
 	</li><br>
 	
 <li> <b>Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning</b><br>
-Rabindra Lamsal and Ayesha Choudhary<br>arXiv preprint arXiv:1809.09813, 2018<br> </li></ul>
+Rabindra Lamsal and Ayesha Choudhary<br>
+	<a href="https://arxiv.org/abs/1809.09813">arXiv preprint arXiv:1809.09813</a>, 2018<br> </li></ul>
 
 <h2>Projects</h2>
 <ul>
