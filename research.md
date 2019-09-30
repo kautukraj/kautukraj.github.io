@@ -7,19 +7,6 @@ title: Research
 M.Tech Research Areas: Machine Learning, Deep Learning, Sequence Modelling, GRU, LSTM, Word Embeddings
 
 <h2>Publications</h2>
-Papers selected as Book Chapters
-
-<ul>
-	<li>
-		<b>Artificial Intelligence and Early Warning Systems</b><br>
-		Rabindra Lamsal and T.V. Vijay Kumar<br>
-		Global Symposium on Artificial Intelligence in Governance and Disaster Management, New Delhi, 2019<br>
-	</li><br>
-	
-<li> <b>Artificial Intelligence based Disaster Response Systems</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> Fourth World Congress on Disaster Management. Indian Institute of Technology (IIT) Bombay, 2019<br> </li><br>
-
-<li> <b>Artificial Intelligence Based Early Warning System for Coastal Disasters</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br> </li></ul>
-
 Journal articles
 <ul>
 	<li>
@@ -51,6 +38,18 @@ In both of our works, we've attempted to design global classifiers for classifyi
 The performances of the classifiers in respective papers hold very close to their state-of-art counterparts in terms of classification accuracy.	
 </div>
 
+Papers selected as Book Chapters
+
+<ul>
+	<li>
+		<b>Artificial Intelligence and Early Warning Systems</b><br>
+		Rabindra Lamsal and T.V. Vijay Kumar<br>
+		Global Symposium on Artificial Intelligence in Governance and Disaster Management, New Delhi, 2019<br>
+	</li><br>
+	
+<li> <b>Artificial Intelligence based Disaster Response Systems</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> Fourth World Congress on Disaster Management. Indian Institute of Technology (IIT) Bombay, 2019<br> </li><br>
+
+<li> <b>Artificial Intelligence Based Early Warning System for Coastal Disasters</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br> </li></ul>
 
 Preprints
 <ul>
