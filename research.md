@@ -10,13 +10,13 @@ M.Tech Research Areas: Machine Learning, Deep Learning, Sequence Modelling, GRU,
 Journal articles
 <ul>
 	<li>
-		<b>Improving Twitter based Disaster Response using Deep Learning</b> (to be communicated)<br>
+		<b>Improving Twitter based Disaster Response using Deep Learning</b> (manuscript ready)<br>
 		Rabindra Lamsal and T.V. Vijay Kumar<br>
 	</li><br>
 
 
 <li>
-<b>Twitter based Disaster Response using Machine Learning</b> (to be communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar</li><br>
+<b>Twitter based Disaster Response using Machine Learning</b> (manuscript ready)<br>Rabindra Lamsal and T.V. Vijay Kumar</li><br>
 <li> <b> Classifying Emergency Tweets for Disaster Response</b> (communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar</li></ul>
 
 
