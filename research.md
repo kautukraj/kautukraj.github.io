@@ -41,13 +41,13 @@ This paper was written keeping in view the social science researchers working on
 <b>Twitter based Disaster Response using Machine Learning (J1)</b><br>
 <b>Improving Twitter based Disaster Response using Deep Learning (J2)</b><br>
 
-These papers are the third and fourth chapter of my dissertation.<br>
+These papers are the chapters of my dissertation.<br>
 
 The counterpart of article J1: https://arxiv.org/pdf/1605.05894.pdf.<br>
 The counterpart of article J2: https://arxiv.org/pdf/1608.03902.pdf.<br>
-
+<br>
 In both of our works, we've made an attempt to design global classifiers for classifying disaster-specific tweets. However, the counterparts focus concisely in event-specific classification. We can't afford to wait for a disastrous event to happen for collecting a couple of hundreds of tweets, labelling them, and designing classifier for the event. Therefore, a global classifier seemed lacking which could classify disaster-specific tweets irrespective of the region and the language.<br>
-
+<br>
 The performances of the classifiers in respective papers hold very close to their state-of-art counterparts in terms of classification accuracy.	
 </div>
 
