@@ -12,16 +12,16 @@ Journal articles
 	<li>
 		<b>Improving Twitter based Disaster Response using Deep Learning</b> (manuscript ready)<br>
 		Rabindra Lamsal and T.V. Vijay Kumar<br>
-		<a href="https://rlamsal.com.np/papers/ITB_DR_DL.pdf/"><div class="color-button">abstract (pdf)</div></a>
+		<a href="https://rlamsal.com.np/papers/ITB_DR_DL.pdf"><div class="color-button">abstract (pdf)</div></a>
 	</li><br>
 
 
 <li>
 <b>Twitter based Disaster Response using Machine Learning</b> (manuscript ready)<br>Rabindra Lamsal and T.V. Vijay Kumar<br>
-<a href="https://rlamsal.com.np/papers/TB_DR_ML.pdf/"><div class="color-button">abstract (pdf)</div></a>
+<a href="https://rlamsal.com.np/papers/TB_DR_ML.pdf"><div class="color-button">abstract (pdf)</div></a>
 </li><br>
 <li> <b> Classifying Emergency Tweets for Disaster Response</b> (communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar<br>
-<a href="https://rlamsal.com.np/papers/CET_DR.pdf/"><div class="color-button">abstract (pdf)</div></a>
+<a href="https://rlamsal.com.np/papers/CET_DR.pdf"><div class="color-button">abstract (pdf)</div></a>
 </li></ul>
 
 
