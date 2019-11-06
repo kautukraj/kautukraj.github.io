@@ -24,25 +24,6 @@ Journal articles
 <a href="https://rlamsal.com.np/papers/CET_DR.pdf"><div class="color-button">abstract (pdf)</div></a>
 </li></ul>
 
-
-<div class="journal">
-<h4>Content inside the Journal articles</h4>	
-<b>Classifying Emergency Tweets for Disaster Response</b><br>
-This paper was written keeping in view the social science researchers working on disaster research domain at the Special Centre for Disaster Research. With relatively less technicality, the paper focused on how effectively the raw twitter data can be accessed, pre-processed and represented in the Vector Space to enable traditional machine learning algorithms to train on. <br><br>
-	
-<b>Twitter based Disaster Response using Machine Learning (alpha)</b><br>
-<b>Improving Twitter based Disaster Response using Deep Learning (beta)</b><br>
-
-These papers are the chapters of my dissertation.<br>
-
-The counterpart of article alpha: <a href="https://arxiv.org/abs/1605.05894">https://arxiv.org/pdf/1605.05894.pdf</a><br>
-The counterpart of article beta: <a href="https://arxiv.org/pdf/1608.03902.pdf">https://arxiv.org/pdf/1608.03902.pdf</a><br>
-<br>
-In our work, we've attempted to design global classifiers for classifying disaster-specific tweets. However, the counterparts focus concisely in event-specific classification. We can't afford to wait for a disastrous event to happen for collecting a couple of hundreds of tweets, labelling them, and designing classifier for the event. Therefore, a global classifier seemed lacking, which could classify disaster-specific tweets irrespective of region and language.<br>
-<br>
-The performances of the classifiers in respective papers hold very close to their counterparts in terms of classification accuracy.	
-</div>
-
 Papers selected as Book Chapters
 
 <ul>
