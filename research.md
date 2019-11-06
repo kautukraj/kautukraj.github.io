@@ -12,6 +12,7 @@ Journal articles
 	<li>
 		<b>Improving Twitter based Disaster Response using Deep Learning</b> (manuscript ready)<br>
 		Rabindra Lamsal and T.V. Vijay Kumar<br>
+		<a href="#"><div class="color-button">abstract (pdf)</div></a>
 	</li><br>
 
 
