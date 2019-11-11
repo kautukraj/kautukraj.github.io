@@ -3,9 +3,6 @@ layout: page
 permalink: /research/
 title: Research
 ---
-
-M.Tech Research Areas: Machine Learning, Deep Learning, Sequence Modelling, GRU, LSTM, Word Embeddings
-
 <h2>Publications</h2>
 Journal articles
 <ul>
