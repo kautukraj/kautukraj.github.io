@@ -57,7 +57,7 @@ Rabindra Lamsal and Ayesha Choudhary<br>
 <ul>
 	
 <li>
-		<b>Sentiment.live [<a href="https://sentiment.live">link to the deployed webapp</a>]</b><br>
+		<b>Live Twitter Sentiment [<a href="https://sentiment.live">webapp</a>]</b><br>
 		Deployed an LSTM model for live twitter sentiment. The trained LSTM deep network is a modified version of the text classifier documented in my master's thesis.<br>
 	</li><br>	
 
