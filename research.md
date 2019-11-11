@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research (journal/conference/preprint/projects)
+title: Research
 ---
 <h2>Publications</h2>
 Journal articles
