@@ -13,7 +13,7 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <li>
 <b>
-Wrote two complete competetion platforms for The Travelling Salesman Problem and The Knapsack Problem
+Wrote two web-based competition platforms for The Travelling Salesman Problem and The Knapsack Problem
 </b>
 <br>
 This task was carried out voluntarily for the EngQuest 2019 competitions. The platforms could be accessed thorugh a network and multiple groups could compete against each other.
