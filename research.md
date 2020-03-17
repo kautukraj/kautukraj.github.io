@@ -67,7 +67,7 @@ Rabindra Lamsal and Ayesha Choudhary<br>
 	</li><br>
 	
 <li> <b>Word Embeddings (Word2Vec Implementation) for Nepali Language [<a href="https://ieee-dataport.org/open-access/300-dimensional-word-embeddings-nepali-language">IEEE Dataport</a>]</b><br>
-Word2Vec implementation of a Nepali language corpora having 100 million running words. The
+Word2Vec implementation of a Nepali language corpora having 90 million running words. The
 text corpora was designed by scrapping publicly available news content of various Nepali online
 news portals. The model has Word Embeddings for 0.5 million Nepali words.</li><br>
 
