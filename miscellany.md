@@ -6,5 +6,5 @@ permalink: /miscellany/
 
 <ul>
 	<li><a href="courses">Courses undertaken</a> - A list of important courses that I completed during my master's.</li>
-	<li><a href="#">Travel</a> - Some moments from my trips to beautiful places around the world.</li>
+	<li><a href="travel">Travel</a> - Places I've visited.</li>
 </ul>
