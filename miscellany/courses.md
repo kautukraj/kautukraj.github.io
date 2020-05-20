@@ -6,7 +6,7 @@ permalink: /miscellany/courses/
 
 <h2>School of Computer and Systems Sciences, JNU, New Delhi</h2>
 
-<b>&nbsp;&middot;&nbsp;</b> CS708: Arificial Intelligence (Graded A PLUS)<br>
+<b>&nbsp;&middot;&nbsp;</b> CS708: Artificial Intelligence (Graded A PLUS)<br>
 <b>&nbsp;&middot;&nbsp;</b> CS715: Data Mining and Knowledge Discovery (Graded A PLUS)<br>
 <b>&nbsp;&middot;&nbsp;</b> CS773: Design and Analysis of Algorithms (Graded A ONLY)<br>
 <b>&nbsp;&middot;&nbsp;</b> CS771: Grid and Cloud Computing (Graded A PLUS)<br>
