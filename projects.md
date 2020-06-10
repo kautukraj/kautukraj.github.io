@@ -13,10 +13,10 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <li>
 <b>
-Wrote two web-based competition platforms for The Travelling Salesman Problem and The Knapsack Problem
+Wrote web-based competition platforms for The Travelling Salesman Problem and The Knapsack Problem
 </b>
 <br>
-This task was carried out voluntarily for the EngQuest 2019 competitions. The platforms could be accessed thorugh a network and multiple groups could compete against each other.
+This task was carried out voluntarily for the EngQuest 2019 competition (JNU). The platforms could be accessed thorugh a network and multiple groups could compete against each other.
 </li>
 <br>
 
@@ -26,7 +26,7 @@ This task was carried out voluntarily for the EngQuest 2019 competitions. The pl
 Natural Language Processing (NLP) tools for Nepali Language
 </b>
 <br>
-Text cleaner, text stemmer, sentence tokenizer and word tokenizer. Please drop an email for requesting the scripts.
+Text cleaner, text stemmer, sentence tokenizer and word tokenizer.
 </li>
 <br>
   
