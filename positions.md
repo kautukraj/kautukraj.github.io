@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/
-title: Non-Research Projects
+permalink: /positions/
+title: Positions Held
 ---
 
 Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>.
