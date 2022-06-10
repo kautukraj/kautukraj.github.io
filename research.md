@@ -3,57 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 ---
-<h2>Publications</h2>
-Journal articles
-<ul>
-	<li>
-		<b>Improving Twitter based Disaster Response using Deep Learning</b> (communicated)<br>
-		Rabindra Lamsal and T.V. Vijay Kumar<br>
-		<a href="https://rlamsal.com.np/papers/ITB_DR_DL.pdf"><div class="color-button">abstract (pdf)</div></a>
-	</li><br>
 
-
-<li>
-<b>Twitter based Disaster Response using Machine Learning</b> (communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar<br>
-<a href="https://rlamsal.com.np/papers/TB_DR_ML.pdf"><div class="color-button">abstract (pdf)</div></a>
-</li><br>
-<li> <b> Classifying Emergency Tweets for Disaster Response</b> (communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar<br>
-<a href="https://rlamsal.com.np/papers/CET_DR.pdf"><div class="color-button">abstract (pdf)</div></a>
-</li></ul>
-
-Papers selected as Book Chapters
-
-<ul>
-	<li>
-		<b>Artificial Intelligence and Early Warning Systems</b><br>
-		Rabindra Lamsal and T.V. Vijay Kumar<br>
-		Global Symposium on Artificial Intelligence in Governance and Disaster Management, New Delhi, 2019<br>
-		<a href="https://rlamsal.com.np/papers/AI_EWS.pdf"><div class="color-button">abstract (pdf)</div></a>
-	</li><br>
-	
-<li> <b>Artificial Intelligence based Disaster Response Systems</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> Fourth World Congress on Disaster Management. Indian Institute of Technology (IIT) Bombay, 2019<br> 
-<a href="https://rlamsal.com.np/papers/AI_DRS.pdf"><div class="color-button">abstract (pdf)</div></a>
-</li><br>
-
-<li> <b>Artificial Intelligence Based Early Warning System for Coastal Disasters</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br>
-<a href="https://rlamsal.com.np/papers/AI_EWS_CD.pdf"><div class="color-button">abstract (pdf)</div></a>
-</li></ul>
-
-Preprints
-<ul>
-	<li>
-		<b>Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity</b><br>
-		Rabindra Lamsal and Shubham Katiyar<br>
-		<a href="https://arxiv.org/abs/1810.01878"><div class="color-button">arXiv</div></a>
-
-	</li><br>
-	
-<li> <b>Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning</b><br>
-Rabindra Lamsal and Ayesha Choudhary<br>
-<a href="https://arxiv.org/abs/1809.09813"><div class="color-button">arXiv</div></a>
-</li></ul>
-
-<h2>Projects</h2>
 <ul>
 	
 <li>
