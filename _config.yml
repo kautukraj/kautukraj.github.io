@@ -1,19 +1,19 @@
 # Site settings
-title: Rabindra Lamsal
-general_email: rabindralamsal@outlook.com
-academic_email: 
+title: Kautuk Raj
+general_email: kautukraj@gmail.com
+academic_email: kautuk.raj@iiitb.ac.in
 
 description: > # this means to ignore newlines until "baseurl:"
-  I believe, the hunger to learn should never saturate.
+  We are such stuff as dreams are made on, and our little life is rounded with a sleep. 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "https://rlamsal.com.np" # the base hostname & protocol for your site
+url: "https://kautukraj.github.io" # the base hostname & protocol for your site
 
-# twitter_username: jekyllrb
-github_username: 
-linkedin_username: 
-facebook_username: 
+twitter_username: kautukr
+github_username: kautukraj
+linkedin_username: kautukraj
+# facebook_username: kautukraj
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
