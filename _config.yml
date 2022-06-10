@@ -4,7 +4,7 @@ general_email: kautukraj@gmail.com
 academic_email: kautuk.raj@iiitb.ac.in
 
 description: > # this means to ignore newlines until "baseurl:"
-  We are such stuff as dreams are made on, and our little life is rounded with a sleep. 
+  "We are such stuff as dreams are made on, and our little life is rounded with a sleep." 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
