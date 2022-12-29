@@ -15,6 +15,4 @@ title: Positions Held
     - Assisted [Prof. Uttam Kumar](https://www.iiitb.ac.in/faculty/uttam-kumar) in course development and instruction.
     - Set and graded quizzes, assignments and examinations. 
 
-- **SM 211: Probability and Statistics, Fall 2022**
-  - _course currently ongoing_ 
 
