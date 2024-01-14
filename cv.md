@@ -5,8 +5,7 @@ title: CV Page
 ---
 
 
-[Industry CV](/Kautuk-Raj_CV_industry.pdf) <br>
-[Research CV](/Kautuk-Raj_CV_research.pdf)
+[PDF, last updated: January 2024](/Kautuk-Raj_CV_Jan_2024.pdf)
 
 
 

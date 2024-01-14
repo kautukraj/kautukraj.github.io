@@ -4,6 +4,7 @@ permalink: /projects/
 title: Projects
 ---
 
+**I have ceased the updation of this page.** 
 Here is a non-exhaustive list of my projects. My research work can be found <a href="/research">here</a>.
 
 - **Inventory Management Portal**; November 2019
