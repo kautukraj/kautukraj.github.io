@@ -42,6 +42,12 @@ travel_map: true
   </div>
 </section>
 
+<section class="flight-banner" aria-label="Flight Diary statistics">
+  <a href="https://my.flightradar24.com/kautukraj" target="_blank" rel="noopener noreferrer">
+    <img src="https://banners-my.flightradar24.com/kautukraj.png" alt="Kautuk Raj's FlightRadar24 Flight Diary statistics">
+  </a>
+</section>
+
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha512-BwHfrr4c9kmRkLw6iXFdzcdWV/PGkVgiIyIWLLlTSXzWQzxuSg4DiQUCpauz/EWjgk5TYQqX/kvn9pG1NpYfqg==" crossorigin=""></script>
 <script>
   (function () {
