@@ -75,13 +75,12 @@ travel_map: true
     document.getElementById('land-area-percent').textContent =
       ((totalArea / worldLandArea) * 100).toFixed(1) + '%';
 
-    function flagFromCode(countryCode) {
+    function flagImage(countryCode) {
       if (!countryCode || countryCode.length !== 2 || countryCode === '-99') {
-        return '\u{1F3F3}\uFE0F';
+        return '';
       }
-      return String.fromCodePoint.apply(null, countryCode.toUpperCase().split('').map(function (letter) {
-        return 127397 + letter.charCodeAt(0);
-      }));
+      return '<img class="travel-map__flag" src="https://flagcdn.com/20x15/' +
+        countryCode.toLowerCase() + '.png" alt=""> ';
     }
 
     function countryCode(feature) {
@@ -123,7 +122,7 @@ travel_map: true
           },
           onEachFeature: function (feature, layer) {
             var code = countryCode(feature);
-            layer.bindTooltip(flagFromCode(code) + ' ' + countryName(feature), {
+            layer.bindTooltip(flagImage(code) + countryName(feature), {
               sticky: true,
               direction: 'top',
               opacity: 0.95
@@ -148,7 +147,7 @@ travel_map: true
           weight: 2,
           fillColor: '#1f638a',
           fillOpacity: 1
-        }).addTo(map).bindTooltip('Jamshedpur - home town', {
+        }).addTo(map).bindTooltip('Jamshedpur', {
           permanent: true,
           direction: 'top',
           offset: [0, -7],
