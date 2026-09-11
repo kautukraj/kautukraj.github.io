@@ -2,6 +2,7 @@
 layout: page
 permalink: /travel/
 title: Travel
+travel_map: true
 ---
 
 <section class="travel-banner" aria-labelledby="travel-heading">
@@ -33,10 +34,7 @@ title: Travel
   </div>
 
   <div class="travel-map-wrap">
-    <div id="travel-map" class="travel-map" role="img" aria-label="World map highlighting 41 countries Kautuk Raj has visited"></div>
-    <span class="travel-map__home-marker" aria-label="Jamshedpur, India — home town">
-      <span class="travel-map__home-marker-label">Jamshedpur</span>
-    </span>
+    <div id="travel-map" class="travel-map" role="application" aria-label="Zoomable world map highlighting countries Kautuk Raj has visited, with Jamshedpur in India marked as his home town"></div>
     <p class="travel-map__legend">
       <span class="travel-map__legend-dot travel-map__legend-dot--visited" aria-hidden="true"></span> Visited countries
       <span class="travel-map__legend-dot travel-map__legend-dot--home" aria-hidden="true"></span> Home country
@@ -44,25 +42,25 @@ title: Travel
   </div>
 </section>
 
-<script src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha512-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo2yR6IkH6NYuXLOuW6S3Ue7xGWy9vMHTVQYB9gkPZJw==" crossorigin=""></script>
 <script>
   (function () {
     var visitedCountries = [
-      ['Singapore', 710], ['Thailand', 510890], ['Philippines', 298170],
-      ['Indonesia', 1811570], ['Qatar', 11610], ['France', 547557],
-      ['Switzerland', 39516], ['Monaco', 2.02], ['Belgium', 30278],
-      ['Netherlands', 33481], ['Spain', 498800], ['Luxembourg', 2586],
-      ['Liechtenstein', 160], ['Italy', 294140], ['Vatican City', 0.44],
-      ['Austria', 82409], ['Slovakia', 48105], ['Hungary', 90530],
-      ['Germany', 348560], ['Denmark', 42430], ['Sweden', 410340],
-      ['Greece', 128900], ['United Arab Emirates', 83600], ['Malaysia', 328550],
-      ['Sri Lanka', 64630], ['Egypt', 995450], ['Turkey', 769630],
-      ['Bahrain', 786], ['Japan', 364500], ['Kazakhstan', 2699700],
-      ['Uzbekistan', 425400], ['Azerbaijan', 82658], ['Oman', 309500],
-      ['Kenya', 569140], ['Tanzania', 885800], ['Saudi Arabia', 2149690],
-      ['Ireland', 68890], ['United Kingdom', 241930], ['Croatia', 55960],
-      ['Bosnia and Herzegovina', 51130], ['Montenegro', 13450]
+      ['SG', 710], ['TH', 510890], ['PH', 298170], ['ID', 1811570],
+      ['QA', 11610], ['FR', 547557], ['CH', 39516], ['MC', 2.02],
+      ['BE', 30278], ['NL', 33481], ['ES', 498800], ['LU', 2586],
+      ['LI', 160], ['IT', 294140], ['VA', 0.44], ['AT', 82409],
+      ['SK', 48105], ['HU', 90530], ['DE', 348560], ['DK', 42430],
+      ['SE', 410340], ['GR', 128900], ['AE', 83600], ['MY', 328550],
+      ['LK', 64630], ['EG', 995450], ['TR', 769630], ['BH', 786],
+      ['JP', 364500], ['KZ', 2699700], ['UZ', 425400], ['AZ', 82658],
+      ['OM', 309500], ['KE', 569140], ['TZ', 885800], ['SA', 2149690],
+      ['IE', 68890], ['GB', 241930], ['HR', 55960], ['BA', 51130],
+      ['ME', 13450]
     ];
+    var visitedCountryCodes = visitedCountries.map(function (country) {
+      return country[0];
+    });
     var totalCountries = 195;
     var worldLandArea = 148940000;
     var totalArea = visitedCountries.reduce(function (sum, country) {
@@ -77,32 +75,85 @@ title: Travel
     document.getElementById('land-area-percent').textContent =
       ((totalArea / worldLandArea) * 100).toFixed(1) + '%';
 
-    function drawTravelMap() {
-      var chartData = [['Country', 'Visited']];
-      visitedCountries.forEach(function (country) {
-        chartData.push([country[0], 1]);
-      });
-      chartData.push(['India', 2]);
-
-      var chart = new google.visualization.GeoChart(document.getElementById('travel-map'));
-      chart.draw(google.visualization.arrayToDataTable(chartData), {
-        backgroundColor: 'transparent',
-        colorAxis: {values: [1, 2], colors: ['#ce0000', '#1f638a']},
-        datalessRegionColor: '#e8e4df',
-        defaultColor: '#e8e4df',
-        displayMode: 'regions',
-        enableRegionInteractivity: true,
-        keepAspectRatio: true,
-        legend: 'none',
-        magnifyingGlass: {enable: false},
-        region: 'world',
-        resolution: 'countries',
-        tooltip: {textStyle: {fontName: 'Open Sans', fontSize: 13}}
-      });
+    function flagFromCode(countryCode) {
+      if (!countryCode || countryCode.length !== 2 || countryCode === '-99') {
+        return '\u{1F3F3}\uFE0F';
+      }
+      return String.fromCodePoint.apply(null, countryCode.toUpperCase().split('').map(function (letter) {
+        return 127397 + letter.charCodeAt(0);
+      }));
     }
 
-    google.charts.load('current', {packages: ['geochart']});
-    google.charts.setOnLoadCallback(drawTravelMap);
-    window.addEventListener('resize', drawTravelMap);
+    function countryCode(feature) {
+      return feature.properties.ISO_A2 || feature.properties.iso_a2 || '';
+    }
+
+    function countryName(feature) {
+      return feature.properties.ADMIN || feature.properties.name || 'Country';
+    }
+
+    var map = L.map('travel-map', {
+      attributionControl: false,
+      minZoom: 1,
+      maxZoom: 6,
+      scrollWheelZoom: true,
+      worldCopyJump: true,
+      zoomControl: true
+    }).setView([20, 10], 2);
+
+    fetch('https://cdn.jsdelivr.net/gh/datasets/geo-countries@master/data/countries.geojson')
+      .then(function (response) {
+        if (!response.ok) {
+          throw new Error('Unable to load the world map.');
+        }
+        return response.json();
+      })
+      .then(function (world) {
+        var countries = L.geoJSON(world, {
+          style: function (feature) {
+            var code = countryCode(feature);
+            var fillColor = code === 'IN' ? '#1f638a' :
+              visitedCountryCodes.indexOf(code) !== -1 ? '#ce0000' : '#e8e4df';
+            return {
+              color: '#ffffff',
+              weight: 0.55,
+              fillColor: fillColor,
+              fillOpacity: 1
+            };
+          },
+          onEachFeature: function (feature, layer) {
+            var code = countryCode(feature);
+            layer.bindTooltip(flagFromCode(code) + ' ' + countryName(feature), {
+              sticky: true,
+              direction: 'top',
+              opacity: 0.95
+            });
+            layer.on({
+              mouseover: function (event) {
+                event.target.setStyle({weight: 1.5, color: '#6f6861'});
+                event.target.bringToFront();
+              },
+              mouseout: function (event) {
+                countries.resetStyle(event.target);
+              }
+            });
+          }
+        }).addTo(map);
+
+        map.fitBounds(countries.getBounds(), {padding: [8, 8]});
+
+        L.circleMarker([22.8046, 86.2029], {
+          radius: 6,
+          color: '#ffffff',
+          weight: 2,
+          fillColor: '#1f638a',
+          fillOpacity: 1
+        }).addTo(map).bindTooltip('Jamshedpur - home town', {
+          permanent: true,
+          direction: 'top',
+          offset: [0, -7],
+          className: 'travel-home-tooltip'
+        });
+      });
   }());
 </script>
