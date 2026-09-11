@@ -85,11 +85,11 @@ travel_map: true
     }
 
     function countryCode(feature) {
-      return feature.properties.ISO_A2 || feature.properties.iso_a2 || '';
+      return feature.properties['ISO3166-1-Alpha-2'] || '';
     }
 
     function countryName(feature) {
-      return feature.properties.ADMIN || feature.properties.name || 'Country';
+      return feature.properties.name || 'Country';
     }
 
     var map = L.map('travel-map', {
